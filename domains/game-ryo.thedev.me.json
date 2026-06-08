@@ -1,0 +1,16 @@
+{
+  "subdomain": "game-ryo",
+  "domain": "thedev.me",
+  "email_or_discord": "ryotagtagtag@gmail.com",
+  "github_username": "ryotagtagtag-wq",
+  "description": "Delegating DNS management to Cloudflare for my personal site",
+
+  "records": {
+    "NS": [
+      "ns71.cloudns.net",
+      "ns72.cloudns.com"
+    ]
+  },
+
+  "proxied": false
+}
